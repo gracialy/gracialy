@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. I'm a passionate university student currently pursuing a degree in Information Systems and Technology. I'm enthusiastic about leveraging technology to solve real-world problems and make a positive impact.
 
-- 🌱 I’m currently learning web development and data analysis
+- 🌱 I’m currently learning data analysis and cyber security
 - 📫 How to reach me: Feel free to reach me through ly.gracies@gmail.com
 - 😄 Pronouns: She/Her
 
